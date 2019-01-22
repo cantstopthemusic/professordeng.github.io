@@ -52,11 +52,7 @@ int main(){
 }
 ```
 
-### 数学公式
 
-$$
-\frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial L}{\partial \dot{q}_j} \right ) = \frac {\partial L}{\partial q_j}
-$$
 
 ### 行间字体
 
