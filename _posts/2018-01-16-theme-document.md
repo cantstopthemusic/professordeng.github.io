@@ -1,7 +1,3 @@
----
-categories: jekyll
----
-
 # 博客搭建
 
 jekyll 是 github 官方支持的静态网站生成工具，一个极佳的前端学习工具和博客搭建工具。
@@ -78,7 +74,3 @@ int main(){
 
 <video src="https://cdn-video.xinpianchang.com/5b7fc02a84108.mp4" width = "100%" controls="" preload=""></video>
 
-
-
-
-{{site.math}}
