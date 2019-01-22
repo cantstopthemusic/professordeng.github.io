@@ -1,12 +1,6 @@
----
-permalink: index.html
----
-
 简单点，写作的方式简单点。[关于我](/about)
 
 ## 文章列表 
-
-查找文章请到 [文章分类](/categories)
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
