@@ -1,5 +1,12 @@
 简单点，写作的方式简单点。[关于我](/about)
 
+
+
+## 学习笔记
+
+- [computer](/computer)
+- [english](/english)
+
 ## 文章列表 
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
