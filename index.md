@@ -6,6 +6,7 @@
 
 - [computer](/computer)
 - [english](/english)
+- [life](/life)
 
 ## 文章列表 
 
