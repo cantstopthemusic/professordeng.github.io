@@ -7,6 +7,7 @@
 - [computer](/computer)
 - [english](/english)
 - [life](/life)
+- [exercise](/exercise)
 
 ## 文章列表 
 
