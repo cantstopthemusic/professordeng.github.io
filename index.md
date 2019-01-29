@@ -8,6 +8,7 @@
 - [english](/english)
 - [life](/life)
 - [exercise](/exercise)
+- [geometry](/geometry)
 
 ## 文章列表 
 
