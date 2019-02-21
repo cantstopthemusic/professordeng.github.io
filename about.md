@@ -1,6 +1,6 @@
 # 关于我
 
-其实，我是一个没有感情的演员。
+曾经我想当个观众，现在我想当个主角。
 
 - [find me in github](https://github.com/professordeng)
 
