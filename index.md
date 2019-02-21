@@ -1,19 +1,27 @@
 简单点，写作的方式简单点。[关于我](/about)
 
-
-
-## 学习笔记
+## 计算机
 
 - [computer](/computer)
+
+## 语言
+
 - [english](/english)
+
+## 生活
+
 - [life](/life)
 - [exercise](/exercise)
+
+## 数学
+
 - [geometry](/geometry)
 
-## 文章列表 
+## 散记 
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
+
 <h3>{{ group.name }}</h3>
 <ul>
     {% for post in group.items %}
