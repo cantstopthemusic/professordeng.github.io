@@ -3,6 +3,7 @@
 ## 计算机
 
 - [computer](/computer)
+- [data structure](/data-structure)
 
 ## 语言
 
