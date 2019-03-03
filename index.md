@@ -16,6 +16,7 @@
 ## 数学
 
 - [geometry](/geometry)
+- [advanced algebra](/algebra)
 
 ## 考研
 
