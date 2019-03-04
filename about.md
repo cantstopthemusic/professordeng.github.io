@@ -14,7 +14,7 @@
   };
   (function() {
     var d = document, s = d.createElement('script');
-    s.src = 'https://doublesand.disqus.com/embed.js';
+    s.src = 'https://whenfung.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
