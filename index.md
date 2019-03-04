@@ -3,7 +3,7 @@
 ## 计算机
 
 - [computer](/computer)
-- [data structure](/data-structure)
+- [cpp learning](/cpp-learning)
 
 ## 语言
 
