@@ -19,10 +19,6 @@
 - [geometry](/geometry)
 - [advanced algebra](/algebra)
 
-## 考研
-
-- [Postgraduate entrance examination]({{site.url}}/pee)
-
 ## 散记 
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
