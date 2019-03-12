@@ -4,6 +4,7 @@
 
 - [computer](/computer)
 - [cpp learning](/cpp-learning)
+- [computer system](/OS)
 
 ## 语言
 
