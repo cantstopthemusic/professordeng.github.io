@@ -19,6 +19,7 @@
 
 - [geometry](/geometry)
 - [advanced algebra](/algebra)
+- [theory of numbers](/theory-of-numbers)
 
 ## 散记 
 
