@@ -5,7 +5,7 @@
 - [computer](/computer)
 - [cpp learning](/cpp-learning)
 - [computer system](/OS)
-- [full stack develop](/LAMP)
+- [full stack develop](/web-program)
 
 ## 语言
 
