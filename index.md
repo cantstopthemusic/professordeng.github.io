@@ -2,10 +2,10 @@
 
 ## 计算机
 
-- [computer](/computer)
+- [what is computer](/computer)
 - [cpp learning](/cpp-learning)
-- [computer system](/operating-system)
-- [full stack develop](/web-program)
+- [operating system](/operating-system)
+- [web-based programming](/web-program)
 
 ## 语言
 
