@@ -10,5 +10,5 @@ in order to remind me
 | 78   | 328 assistant | 328 assistant  | C309 number theory         | 328 assistant                         |                            |
 | 9-12 |               |                | 327 arm design             |                                       | H1-105 Film and Philosophy |
 
-mooc offline courses in 4.21、6.16 ，QQ gourp : 924913947
+mooc offline courses in 4.21、6.16 
 
