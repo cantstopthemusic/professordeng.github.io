@@ -1,4 +1,4 @@
-# my time
+# my schedule
 
 in order to remind me
 
