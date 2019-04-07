@@ -1,6 +1,6 @@
 [about me](/about) | [schedule](/schedule)
 
-## 计算机
+## computer science
 
 - [what is computer](/computer)
 - [algorithm](/algorithm)
@@ -8,22 +8,22 @@
 - [operating system](/operating-system)
 - [web-based programming](/web-program)
 
-## 语言
+## language
 
 - [english](/english)
 
-## 生活
+## life
 
 - [life](/life)
 - [exercise](/exercise)
 
-## 数学
+## math
 
 - [geometry](/geometry)
 - [advanced algebra](/algebra)
 - [theory of numbers](/theory-of-numbers)
 
-## 散记 
+## random notes
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
