@@ -1,4 +1,4 @@
-[关于](/about) | [日程](/mytime)
+[about me](/about) | [schedule](/schedule)
 
 ## 计算机
 
