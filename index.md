@@ -3,6 +3,7 @@
 ## 计算机
 
 - [what is computer](/computer)
+- [algorithm](算法)
 - [cpp learning](/cpp-learning)
 - [operating system](/operating-system)
 - [web-based programming](/web-program)
