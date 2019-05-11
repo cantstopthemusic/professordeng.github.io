@@ -3,19 +3,14 @@
 ## computer science
 
 - [what is computer](/computer)
-- [algorithm](/algorithm)
+- [algorithm](/algorithm-learning)
 - [cpp learning](/cpp-learning)
 - [operating system](/operating-system)
 - [web-based programming](/web-program)
 
-## language
-
-- [english](/english)
-
 ## life
 
 - [life](/life)
-- [exercise](/exercise)
 
 ## math
 
