@@ -1,6 +1,6 @@
 [about me](/about) | [schedule](/schedule)
 
-## computer science
+## Knowledge system
 
 - [what is computer](/computer)
 - [algorithm](/algorithm-learning)
@@ -8,17 +8,13 @@
 - [operating system](/operating-system)
 - [web-based programming](/web-program)
 
-## life
-
-- [life](/life)
-
-## math
+- [english](/english) 
 
 - [geometry](/geometry)
 - [advanced algebra](/algebra)
 - [theory of numbers](/theory-of-numbers)
 
-## random notes
+## Random notes
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
