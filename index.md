@@ -7,9 +7,7 @@
 - [cpp learning](/cpp-learning)
 - [operating system](/operating-system)
 - [web-based programming](/web-program)
-
 - [english](/english) 
-
 - [geometry](/geometry)
 - [advanced algebra](/algebra)
 - [theory of numbers](/theory-of-numbers)
