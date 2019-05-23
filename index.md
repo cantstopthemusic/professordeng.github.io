@@ -12,6 +12,7 @@
 - [高等代数](/algebra)
 - [数论](/theory-of-numbers)
 - [python 学习笔记](/python-learning)
+- [人工智能](/ai)
 
 ## 随笔
 
