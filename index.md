@@ -13,6 +13,7 @@
 - [数论](/theory-of-numbers)
 - [python 学习笔记](/python-learning)
 - [人工智能](/ai)
+- [计算机网络](/computer-network)
 
 ## 随笔
 
