@@ -15,6 +15,7 @@
 - [python 学习笔记](/python-learning)
 - [人工智能](/ai)
 - [计算机网络](/computer-network)
+- [嵌入式设计](/embedded-design)
 
 ## 随笔
 
