@@ -4,6 +4,7 @@
 
 - [计算机科学](/computer)
 - [算法](/algorithm-learning)
+- [c 学习笔记](/c-learning)
 - [c++ 学习笔记](/cpp-learning)
 - [操作系统](/operating-system)
 - [web 编程](/web-program)
