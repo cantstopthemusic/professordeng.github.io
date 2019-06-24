@@ -34,3 +34,15 @@ title: windows 常见问题
   3. 疑难杂症上淘宝。
 
   一般大学都有提供教育版，够大家喝一壶了。
+  
+- 电脑激活
+
+  利用 `kms` 激活，本人是专业版
+
+  ```bash
+  slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T  # 安装密钥
+  slmgr /skms kms.xspace.in                 # 连接服务器
+  slmgr /ato                                # 激活
+  ```
+
+  
