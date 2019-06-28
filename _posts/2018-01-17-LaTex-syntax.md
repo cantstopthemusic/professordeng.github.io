@@ -90,6 +90,14 @@
 | $\lfloor$ | \lfloor | $\rfloor$    | \rfloor    | $\lceil$       | \lceil       | $\rceil$       | \rceil       |
 | $/$       | /       | $\backslash$ | \backslash |                |              |                |              |
 
+- 其他运算符
+
+| display  | syntax | display | syntax |
+| -------- | ------ | ------- | ------ |
+| $\infty$ | \infty |         |        |
+|          |        |         |        |
+|          |        |         |        |
+
 
 
 ## 常见公式的格式
