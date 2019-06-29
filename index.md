@@ -16,6 +16,7 @@
 - [人工智能](/ai)
 - [计算机网络](/computer-network)
 - [嵌入式设计](/embedded-design)
+- [编程语言](/programming-language)
 
 ## 随笔
 
