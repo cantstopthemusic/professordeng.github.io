@@ -1,6 +1,8 @@
 [关于](/about) | [行程](/schedule)
 
-## 知识体系
+- [疯狂实验室](/lab)
+
+## 计算机科学
 
 - [计算机科学](/computer)
 - [算法](/algorithm-learning)
@@ -9,14 +11,17 @@
 - [操作系统](/operating-system)
 - [web 编程](/web-program)
 - [英语](/english) 
-- [几何](/geometry)
-- [高等代数](/algebra)
-- [数论](/theory-of-numbers)
 - [python 学习笔记](/python-learning)
 - [人工智能](/ai)
 - [计算机网络](/computer-network)
 - [嵌入式设计](/embedded-design)
 - [编程语言](/programming-language)
+
+## 数学
+
+- [数论](/theory-of-numbers)
+- [几何](/geometry)
+- [高等代数](/algebra)
 
 ## 随笔
 
