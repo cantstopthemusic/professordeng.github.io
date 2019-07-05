@@ -10,7 +10,6 @@
 - [c++ learning](/cpp-learning)
 - [operating system](/operating-system)
 - [web program](/web-program)
-- [english](/english) 
 - [python learning](/python-learning)
 - [artificial intelligence](/ai)
 - [computer network](/computer-network)
@@ -22,6 +21,12 @@
 - [theory of numbers](/theory-of-numbers)
 - [geometry](/geometry)
 - [algebra](/algebra)
+- [probability theory](/probability-theory)
+- [advanced mathematics](/advanced-mathematics)
+
+## language
+
+- [english](/english)
 
 ## notes
 
