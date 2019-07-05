@@ -1,29 +1,29 @@
-[关于](/about) | [行程](/schedule)
+[about](/about) | [schedue](/schedule)
 
-- [疯狂实验室](/lab)
+- [crazy laboratory](/lab)
 
-## 计算机科学
+## computer science
 
-- [计算机科学](/computer)
-- [算法](/algorithm-learning)
-- [c 学习笔记](/c-learning)
-- [c++ 学习笔记](/cpp-learning)
-- [操作系统](/operating-system)
-- [web 编程](/web-program)
-- [英语](/english) 
-- [python 学习笔记](/python-learning)
-- [人工智能](/ai)
-- [计算机网络](/computer-network)
-- [嵌入式设计](/embedded-design)
-- [编程语言](/programming-language)
+- [what is computer](/computer)
+- [algorithm](/algorithm-learning)
+- [c learning](/c-learning)
+- [c++ learning](/cpp-learning)
+- [operating system](/operating-system)
+- [web program](/web-program)
+- [english](/english) 
+- [python learning](/python-learning)
+- [artificial intelligence](/ai)
+- [computer network](/computer-network)
+- [embedded design](/embedded-design)
+- [programing language](/programming-language)
 
-## 数学
+## mathematics
 
-- [数论](/theory-of-numbers)
-- [几何](/geometry)
-- [高等代数](/algebra)
+- [theory of numbers](/theory-of-numbers)
+- [geometry](/geometry)
+- [algebra](/algebra)
 
-## 随笔
+## notes
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
