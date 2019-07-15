@@ -16,6 +16,7 @@
 - [embedded design](/embedded-design)
 - [programing language](/programming-language)
 - [principle of computer composition](/computer-system)
+- [data structure](/data-structure)
 
 ## mathematics
 
