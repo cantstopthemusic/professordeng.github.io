@@ -15,6 +15,7 @@
 - [computer network](/computer-network)
 - [embedded design](/embedded-design)
 - [programing language](/programming-language)
+- [principle of computer composition](/computer-system)
 
 ## mathematics
 
