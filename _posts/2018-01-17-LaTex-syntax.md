@@ -92,11 +92,11 @@
 
 - 其他运算符
 
-| display  | syntax | display | syntax |
-| -------- | ------ | ------- | ------ |
-| $\infty$ | \infty |         |        |
-| $\iff$   | \iff   |         |        |
-|          |        |         |        |
+| display               | syntax    | display | syntax |
+| --------------------- | --------- | ------- | ------ |
+| $\infty$              | \infty    |         |        |
+| $\iff$                | \iff      |         |        |
+| $\overline{A \cap B}$ | \overline |         |        |
 
 
 
