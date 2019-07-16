@@ -95,7 +95,7 @@
 | display  | syntax | display | syntax |
 | -------- | ------ | ------- | ------ |
 | $\infty$ | \infty |         |        |
-|          |        |         |        |
+| $\iff$   | \iff   |         |        |
 |          |        |         |        |
 
 
