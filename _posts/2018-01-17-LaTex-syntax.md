@@ -92,11 +92,11 @@
 
 - 其他运算符
 
-| display               | syntax    | display | syntax |
-| --------------------- | --------- | ------- | ------ |
-| $\infty$              | \infty    |         |        |
-| $\iff$                | \iff      |         |        |
-| $\overline{A \cap B}$ | \overline |         |        |
+| display               | syntax    | display       | syntax      |
+| --------------------- | --------- | ------------- | ----------- |
+| $\infty$              | \infty    | $\sqrt[n]{x}$ | \sqrt[n]{x} |
+| $\iff$                | \iff      | $\forall$     | \forall     |
+| $\overline{A \cap B}$ | \overline | $\exists$     | \exists     |
 
 
 
