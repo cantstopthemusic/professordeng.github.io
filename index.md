@@ -17,6 +17,8 @@
 - [programing language](/programming-language)
 - [principle of computer composition](/computer-system)
 - [data structure](/data-structure)
+- [linux learning](/linux-learning)
+- [opengl learning](/opengl-learning)
 
 ## mathematics
 
@@ -25,10 +27,16 @@
 - [algebra](/algebra)
 - [probability theory](/probability-theory)
 - [advanced mathematics](/advanced-mathematics)
+- [numerical analysis](/numerical-analysis)
 
 ## language
 
 - [english](/english)
+
+## other
+
+- [learning theory](/learning-theory)
+- [philosophy](/philosophy)
 
 ## notes
 
