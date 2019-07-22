@@ -1,4 +1,4 @@
-其实，我是一个没有感情的演员。
+if your dream isn't worth the risk, what is?
 
 - [find me in github](https://github.com/professordeng)
 
@@ -18,4 +18,3 @@
   })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
