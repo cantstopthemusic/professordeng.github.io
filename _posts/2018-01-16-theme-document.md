@@ -1,42 +1,40 @@
-# 博客搭建
+---
+title: building blog
+---
 
-jekyll 是 github 官方支持的静态网站生成工具，一个极佳的前端学习工具和博客搭建工具。
+[jekyll](https://jekyllrb.com) Jekyll is a simple, extendable, static site generator officially supported by GITHUB. You give it text written in your favorite markup language and it churns through layouts to create a static website. 
 
-jekyll 特别好学，就是一个框架，框架下的每个文件有特定的功能，你把功能实现后，jekyll 将目录打包成一个静态文件发布到站点上，而 github 提供了仓库存放你的静态文件，这样你也不需要购买服务器了。
+## Building process
 
-## 搭建流程
+- [a github account](https://github.com)
 
-- [github 账号](https://github.com)
+  if you don't know what is GITHUB, just google. 
 
-  如果你不了解 github，自行百度。
+- [github desktop](https://git-scm.com/)
 
-- [git 软件](https://git-scm.com/)
+  use it to transfer files between local and server.
 
-  github 提供了仓库存放你的文件，而 git 可以将你的文件从本地传到 github 的仓库上，git 使用可以参考[廖雪峰的 git 教程](https://www.liaoxuefeng.com/)。
+- [ruby](https://rubyinstaller.org/downloads/)
 
-- [ruby 下载源](https://rubyinstaller.org/downloads/)
+  JEKYLL is based on ruby.
 
-  本人的电脑是 win10，如果你也是 win10，遇到了问题欢迎咨询。
+- [domain](https://cloud.tencent.com/) (optional)
 
-- [域名](https://cloud.tencent.com/) (可选)
+  GITHUB will provide a domain name called `usename.github.io` to you, also you can bind personal domain name for you website.
 
-  github 会提供一个叫 usename.github.io 的域名给你，如果你嫌不好听，可以花点小钱购买一个好听的域名。
+- [jekyll docs](https://jekyllrb.com/)
 
-- [jekyll 教程](https://jekyllrb.com/)
+- [jekyll themes](https://jekyllthemes.org/)
 
-  github 的网站渲染是基于 jekyll 的，所以你要学如何利用 jekyll 搭建一个框架，你可以结合 [jekyll 入门项目](https://github.com/doublesand/Newton)学习。当然，如果你想舒服点，可以找现成的[主题模板](http://jekyllthemes.org/)。
+## Typography
 
-## 元素风格
-
-博客的核心功能就是写作，所以我们的首要任务是实现排版。下面是我的元素风格和排版，模仿 github 风格，并自带数学公式渲染。如果你还想学习网页布局，可以参照[带侧栏的博客主题](https://github.com/doublesand/doublesand/)。
-
-### 图片
+### picture
 ![图标](/img/example.jpg)
 
-### 引用
-> 垂死病中惊坐起，笑问客从何处来 -- 李白
+### quote
+> I think, therefore I am -- René Descartes
 
-### 代码块
+### code
 ``` c++
 #include <iostream>
 
@@ -48,29 +46,32 @@ int main(){
 }
 ```
 
+### font style
 
-
-### 行间字体
-
-- **粗体字**
-- *斜体字*
+- **bold**
+- *italics*
 - `highlight`
-- ~~删除字~~
-- <u>下划线</u>
+- ~~delete~~
+- <u>underline</u>
+
+### table
+
+| name  | ID   | score |
+| ----- | ---- | ----- |
+| David | 1    | 98    |
+| Nancy | 2    | 99    |
+| Curry | 3    | 101   |
+
+## formula
+
+if you need formula rendering, add `site.math` to the end of page.
 
 
+$$
+\frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial L}{\partial \dot{q}_j} \right ) = \frac {\partial L}{\partial q_j}
+$$
 
-### 表格
-
-| 姓名 | 学号 | 成绩 |
-| ---- | ---- | ---- |
-| 张三 | 1    | 98   |
-| 李四 | 2    | 99   |
-| 风哥 | 3    | 101  |
-
-
-
-### 视频
+### video
 
 <video src="https://cdn-video.xinpianchang.com/5b7fc02a84108.mp4" width = "100%" controls="" preload=""></video>
-
+{{site.math}}

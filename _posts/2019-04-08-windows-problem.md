@@ -1,5 +1,5 @@
 ---
-title: windows 常见问题
+title: common problems about windows
 ---
 
 本人是个电脑洁癖狂，因此经常研究如何简化电脑，下面是我多次折腾得到的一些常见问题。
