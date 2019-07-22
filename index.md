@@ -1,4 +1,4 @@
-[about](/about) | [schedule](/schedule)
+[about me](/about) | [schedule](/schedule)
 
 - [crazy laboratory](/lab)
 

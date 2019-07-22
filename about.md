@@ -4,10 +4,6 @@
 
 
 
-1. 不要看别人活得好不好，再好也没有你的脑中世界好，而你只需要动用身边的资源，实现你的脑中世界。
-
-
-
 <div id="disqus_thread"></div>
 <script>
   var disqus_config = function () {
@@ -22,3 +18,4 @@
   })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
