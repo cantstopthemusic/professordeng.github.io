@@ -97,6 +97,7 @@
 | $\infty$              | \infty    | $\sqrt[n]{x}$ | \sqrt[n]{x} |
 | $\iff$                | \iff      | $\forall$     | \forall     |
 | $\overline{A \cap B}$ | \overline | $\exists$     | \exists     |
+| $\cdots$              | \cdots    | $\vdots$      | \vdots      |
 
 
 
