@@ -2,7 +2,7 @@
 title: building blog
 ---
 
-[jekyll](https://jekyllrb.com) Jekyll is a simple, extendable, static site generator officially supported by GITHUB. You give it text written in your favorite markup language and it churns through layouts to create a static website. 
+[jekyll](https://jekyllrb.com) is a simple, extendable, static site generator officially supported by GITHUB. You give it text written in your favorite markup language and it churns through layouts to create a static website. 
 
 ## Building process
 
