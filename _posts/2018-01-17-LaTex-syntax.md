@@ -216,4 +216,26 @@ f(x) =
 
 
 
+## 微积分
+
+1. 极限
+
+   $\lim\limits_{x \rightarrow x_0}f(x)$
+
+   ```c
+   \lim\limits_{x \rightarrow x_0}f(x)
+   ```
+
+## 概率论
+
+1. 概率分布
+
+   $p_i=P\lbrace X=x_i\rbrace,i=1,2,\cdots$
+
+   
+
+## 线性代数
+
+
+
 {{ site.math }}
