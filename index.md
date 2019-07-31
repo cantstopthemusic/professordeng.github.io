@@ -1,33 +1,31 @@
 [about me](/about) | [schedule](/schedule)
 
-- [crazy laboratory](/lab)
-
 ## computer science
 
-- [what is computer](/computer)
 - [algorithm](/algorithm-learning)
+- [artificial intelligence](/ai)
 - [c learning](/c-learning)
 - [c++ learning](/cpp-learning)
-- [operating system](/operating-system)
-- [web program](/web-program)
-- [python learning](/python-learning)
-- [artificial intelligence](/ai)
+- [computer world](/computer)
 - [computer network](/computer-network)
+- [data structure](/data-structure)
 - [embedded design](/embedded-design)
+- [linux learning](/linux-learning)
+- [operating system](/operating-system)
+- [opengl learning](/opengl-learning)
+- [python learning](/python-learning)
 - [programing language](/programming-language)
 - [principle of computer composition](/computer-system)
-- [data structure](/data-structure)
-- [linux learning](/linux-learning)
-- [opengl learning](/opengl-learning)
+- [web program](/web-program)
 
 ## mathematics
 
-- [theory of numbers](/theory-of-numbers)
-- [geometry](/geometry)
 - [algebra](/algebra)
-- [probability theory](/probability-theory)
 - [advanced mathematics](/advanced-mathematics)
+- [geometry](/geometry)
 - [numerical analysis](/numerical-analysis)
+- [probability theory](/probability-theory)
+- [theory of numbers](/theory-of-numbers)
 
 ## language
 
@@ -35,6 +33,7 @@
 
 ## other
 
+- [crazy laboratory](/lab)
 - [learning theory](/learning-theory)
 - [philosophy](/philosophy)
 
