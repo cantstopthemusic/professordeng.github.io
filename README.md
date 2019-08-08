@@ -1,2 +1,3 @@
 # professordeng.github.io
-my website
+
+blog is a study tool for me.
