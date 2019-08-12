@@ -226,6 +226,10 @@ f(x) =
    \lim\limits_{x \rightarrow x_0}f(x)
    ```
 
+2. 偏导
+
+   $\partial$
+
 ## 概率论
 
 1. 概率分布
