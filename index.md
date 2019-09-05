@@ -23,6 +23,7 @@
 - [algebra](/algebra)
 - [advanced mathematics](/advanced-mathematics)
 - [geometry](/geometry)
+- [graph theory](/graph-theory)
 - [numerical analysis](/numerical-analysis)
 - [probability theory](/probability-theory)
 - [theory of numbers](/theory-of-numbers)
