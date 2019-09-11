@@ -1,5 +1,7 @@
 if your dream isn't worth the risk, what is?
 
+I major in computer science and math.  
+
 - [find me in github](https://github.com/professordeng)
 
 

@@ -6,13 +6,14 @@
 - [artificial intelligence](/ai)
 - [c learning](/c-learning)
 - [c++ learning](/cpp-learning)
-- [computer world](/computer)
+- [computer security](/computer-security)
 - [computer network](/computer-network)
+- [computer world](/computer)
 - [data structure](/data-structure)
 - [embedded design](/embedded-design)
 - [linux learning](/linux-learning)
-- [operating system](/operating-system)
 - [opengl learning](/opengl-learning)
+- [operating system](/operating-system)
 - [python learning](/python-learning)
 - [programing language](/programming-language)
 - [principle of computer composition](/computer-system)
@@ -20,8 +21,8 @@
 
 ## mathematics
 
-- [algebra](/algebra)
 - [advanced mathematics](/advanced-mathematics)
+- [algebra](/algebra)
 - [geometry](/geometry)
 - [graph theory](/graph-theory)
 - [numerical analysis](/numerical-analysis)
