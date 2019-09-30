@@ -38,6 +38,7 @@
 - [crazy laboratory](/lab)
 - [learning theory](/learning-theory)
 - [philosophy](/philosophy)
+- [willpower training](/self-control)
 
 ## notes
 
