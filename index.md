@@ -1,4 +1,4 @@
-[about me](/about) | [schedule](/schedule)
+[about me](/about) | [resources](/resources)
 
 ## computer science
 
