@@ -8,7 +8,7 @@ title: resources
 
 1. [百度翻译](https://fanyi.baidu.com) ：包括单词的读写，常用例子，以及同义词等等，一句话，方便使用。
 2. [grammarcheck](https://www.nounplus.net/grammarcheck/) ：如果是百度翻译提供学习的平台，那么这个网站就是提供输出的平台，你将你写的英文文章写好后可以提交给该网站，这个网站会帮你修改语法错误。
-3. [wikihow](https://www.wikihow.com/) ：这其实是一个问答网站，不过很生动有条理，不尽可以长知识，还能提高英语阅读能力。
+3. [wikihow](https://www.wikihow.com/) ：这其实是一个问答网站，不过很生动有条理，不仅可以长知识，还能提高英语阅读能力。
 
 ## 电影
 
@@ -25,6 +25,8 @@ title: resources
 ## 编程
 
 1. [菜鸟教程](https://www.runoob.com/) ：入门级技术学习，涵盖前端、后端、移动端。
+2. [cppreference](https://cppreference.com) ：C 和 C++ 的语法、库以及各种关于 C 和 C++ 的知识。
+3. [linux 命令大全](https://man.linuxde.net/) ：各种 `linux` 系统命令的用法。 
 
 ## 学习
 
