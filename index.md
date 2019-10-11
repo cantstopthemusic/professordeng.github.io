@@ -39,6 +39,7 @@
 - [learning theory](/learning-theory)
 - [philosophy](/philosophy)
 - [politics](/politics)
+- [psychoanalysis](/psychoanalysis)
 - [willpower training](/self-control)
 
 ## notes
