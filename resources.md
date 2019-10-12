@@ -17,10 +17,12 @@ title: resources
 ## 开发
 
 1. [github](https://github.com) ：这个网站被我当作了学习记录的网站，我的博客也是这个网站提供的服务搭建的。
+2. [tuna](https://tuna.moe/) ：这是清华大学的一个计算机协会，提供各种开源软件的镜像下载。
 
 ## 身体
 
 1. [MUSCLEWIKI](https://musclewiki.org/) ：这是一个全身肌肉图，只要你点击其中一块肌肉，它就会告诉你如何训练这块肌肉。
+2. [How to draw](https://www.proko.com/how-to-draw-videos/) ：教你如何画人的身体结构。
 
 ## 编程
 
