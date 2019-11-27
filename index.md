@@ -1,48 +1,48 @@
-[truth](/truth) | [resources](/resources)
+[Truth](/truth) | [Resources](/resources)
 
-## computer science
+## Computer Science
 
-- [algorithm](/algorithm-learning)
-- [artificial intelligence](/ai)
-- [c learning](/c-learning)
-- [c++ learning](/cpp-learning)
-- [computer security](/computer-security)
-- [computer network](/computer-network)
-- [computer world](/computer)
-- [data structure](/data-structure)
-- [embedded design](/embedded-design)
-- [linux learning](/linux-learning)
-- [opengl learning](/opengl-learning)
-- [operating system](/operating-system)
-- [python learning](/python-learning)
-- [programing language](/programming-language)
-- [principle of computer composition](/computer-system)
-- [web program](/web-program)
+- [Algorithm](/algorithm-learning)
+- [Artificial Intelligence](/ai)
+- [C Learning](/c-learning)
+- [CPP Learning](/cpp-learning)
+- [Computer Security](/computer-security)
+- [Computer Network](/computer-network)
+- [Computer World](/computer)
+- [Data Structure](/data-structure)
+- [Embedded Design](/embedded-design)
+- [Linux Learning](/linux-learning)
+- [Opengl Learning](/opengl-learning)
+- [Operating System](/operating-system)
+- [Python Learning](/python-learning)
+- [Programing Language](/programming-language)
+- [Principle of Computer Composition](/computer-system)
+- [Web Program](/web-program)
 
-## mathematics
+## Mathematics
 
-- [advanced mathematics](/advanced-mathematics)
-- [algebra](/algebra)
-- [geometry](/geometry)
-- [graph theory](/graph-theory)
-- [numerical analysis](/numerical-analysis)
-- [probability theory](/probability-theory)
-- [theory of numbers](/theory-of-numbers)
+- [Advanced Mathematics](/advanced-mathematics)
+- [Algebra](/algebra)
+- [Geometry](/geometry)
+- [Graph Theory](/graph-theory)
+- [Numerical Analysis](/numerical-analysis)
+- [Probability Theory](/probability-theory)
+- [Theory of Numbers](/theory-of-numbers)
 
-## language
+## Language
 
-- [english](/english)
+- [English](/english)
 
-## other
+## Other
 
-- [crazy laboratory](/lab)
-- [learning theory](/learning-theory)
-- [philosophy](/philosophy)
-- [politics](/politics)
-- [psychoanalysis](/psychoanalysis)
-- [willpower training](/self-control)
+- [Crazy Laboratory](/lab)
+- [Learning Theory](/learning-theory)
+- [Philosophy](/philosophy)
+- [Politics](/politics)
+- [Psychoanalysis](/psychoanalysis)
+- [Willpower Training](/self-control)
 
-## notes
+## Notes
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
