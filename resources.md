@@ -14,9 +14,11 @@ title: resources
 6. [youtube](youtube.com) ：全球视频分享网站。
 7. [documentary storm]( https://documentarystorm.com/ ) ：提供免费的全世界纪录片，均来源于 YouTube。
 
-## 电影
+## 视频
 
 1. [YTS](https://yts.lt/) ：国外电影的优良种子网站，电影清晰度高，文件小，提供多种格式的种子，基本欧美电影都有。
+2. [新片场](https://www.xinpianchang.com/)：短视频网站，可以学习如何制作短视频、找素材
+3. [B 站](https://www.bilibili.com/)：学习网站
 
 ## 开发
 
@@ -37,3 +39,4 @@ title: resources
 ## 学习
 
 1. [知乎](https://www.zhihu.com/) ：有问题，上知乎，相同经历的答主为你解忧，但千万注意不要被一些段子给吸引了，浪费时间。
+2. [网易公开课](https://open.163.com/) ：上知天文，下至地理。
