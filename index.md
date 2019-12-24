@@ -1,6 +1,6 @@
 [Truth](/truth) | [Resources](/resources)
 
-## Computer Science
+## 计算机科学
 
 - [Algorithm](/algorithm-learning)
 - [Artificial Intelligence](/ai)
@@ -19,7 +19,7 @@
 - [Principle of Computer Composition](/computer-system)
 - [Web Program](/web-program)
 
-## Mathematics
+## 数学
 
 - [Advanced Mathematics](/advanced-mathematics)
 - [Algebra](/algebra)
@@ -29,11 +29,11 @@
 - [Probability Theory](/probability-theory)
 - [Theory of Numbers](/theory-of-numbers)
 
-## Language
+## 语言
 
 - [English](/english)
 
-## Other
+## 其他
 
 - [Crazy Laboratory](/lab)
 - [Learning Theory](/learning-theory)
@@ -57,4 +57,4 @@
 
 ---
 
-[粤ICP备18087972号-1](http://www.beian.miit.gov.cn)
+[粤ICP备18087972号](http://www.beian.miit.gov.cn)
