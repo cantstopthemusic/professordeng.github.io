@@ -1,48 +1,48 @@
-[Truth](/truth) | [Resources](/resources)
+[真理](/truth) | [资源](/resources)
 
 ## 计算机科学
 
-- [Algorithm](/algorithm-learning)
-- [Artificial Intelligence](/ai)
-- [C Learning](/c-learning)
-- [CPP Learning](/cpp-learning)
-- [Computer Security](/computer-security)
-- [Computer Network](/computer-network)
-- [Computer World](/computer)
-- [Data Structure](/data-structure)
-- [Embedded Design](/embedded-design)
-- [Linux Learning](/linux-learning)
-- [Opengl Learning](/opengl-learning)
-- [Operating System](/operating-system)
-- [Python Learning](/python-learning)
-- [Programing Language](/programming-language)
-- [Principle of Computer Composition](/computer-system)
-- [Web Program](/web-program)
+- [算法](/algorithm-learning)
+- [人工智能](/ai)
+- [C 语言](/c-learning)
+- [C++ ](/cpp-learning)
+- [计算机安全](/computer-security)
+- [计算机网络](/computer-network)
+- [计算机世界](/computer)
+- [数据结构](/data-structure)
+- [嵌入式开发](/embedded-design)
+- [Linux](/linux-learning)
+- [OpenGL](/opengl-learning)
+- [操作系统](/operating-system)
+- [Python](/python-learning)
+- [编程语言](/programming-language)
+- [计算机组成原理](/computer-system)
+- [Web 开发](/web-program)
 
 ## 数学
 
-- [Advanced Mathematics](/advanced-mathematics)
-- [Algebra](/algebra)
-- [Geometry](/geometry)
-- [Graph Theory](/graph-theory)
-- [Numerical Analysis](/numerical-analysis)
-- [Probability Theory](/probability-theory)
-- [Theory of Numbers](/theory-of-numbers)
+- [高等数学](/advanced-mathematics)
+- [线性代数](/algebra)
+- [几何](/geometry)
+- [图论](/graph-theory)
+- [数值分析](/numerical-analysis)
+- [概率论](/probability-theory)
+- [数论](/theory-of-numbers)
 
 ## 语言
 
-- [English](/english)
+- [英语](/english)
 
 ## 其他
 
-- [Crazy Laboratory](/lab)
-- [Learning Theory](/learning-theory)
-- [Philosophy](/philosophy)
-- [Politics](/politics)
-- [Psychoanalysis](/psychoanalysis)
-- [Willpower Training](/self-control)
+- [疯狂实验室](/lab)
+- [学习理论](/learning-theory)
+- [哲学](/philosophy)
+- [政治](/politics)
+- [精神分析](/psychoanalysis)
+- [意志力](/self-control)
 
-## Notes
+## 随记
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
