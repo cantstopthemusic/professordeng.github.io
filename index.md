@@ -1,6 +1,5 @@
 ## 计算机科学
 
-- [算法](/algorithm-learning)
 - [人工智能](/ai)
 - [C 语言](/c-learning)
 - [C++ ](/cpp-learning)
