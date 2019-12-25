@@ -1,5 +1,5 @@
 ---
-title: keyboard shortcut of windows
+title: Windows 下的快捷键
 ---
 
 windows 操作系统有很多常用的快捷键，对于工作者来说，熟练使用快捷键可以提高工作效率。

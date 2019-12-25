@@ -1,5 +1,5 @@
 ---
-title: how to use google Maps or baidu Maps
+title: Google 地图的使用
 ---
 
 最近我喜欢上了各个世界的文化和各种高科技，现实中并不缺高科技，如何利用高科技获取你想要的信息将渐渐成为人类的必学科目。

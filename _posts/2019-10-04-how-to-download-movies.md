@@ -1,5 +1,5 @@
 ---
-title: how to download movies
+title: 如何优雅地看电影
 ---
 
 ## 1. 电影资源

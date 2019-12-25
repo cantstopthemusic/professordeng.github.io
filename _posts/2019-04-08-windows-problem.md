@@ -1,5 +1,5 @@
 ---
-title: common problems about windows
+title: Windows 下常见问题
 ---
 
 本人是个电脑洁癖狂，因此经常研究如何简化电脑，下面是我多次折腾得到的一些常见问题。
@@ -12,6 +12,7 @@ title: common problems about windows
 
   1. 此电脑、右键属性、进入后左边远程设置。
   2. 控制面板、防火墙、允许应用通过防火墙、最后三个都选上。
+  3. MS 账号换为本地账号再尝试远程
 
   专业版提供远程，局域网内可使用，远程连接使用 `IP` + 微软账号。
 
@@ -48,5 +49,3 @@ title: common problems about windows
 - 云存储
 
   电脑的数据应该时刻备份，最简单的方法就是云存储，利用 `onedirve` 服务将数据备份到云上，何时重装系统都不会有困难。
-
-  
