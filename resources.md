@@ -9,9 +9,9 @@ title: resources
 1. [百度翻译](https://fanyi.baidu.com) ：包括单词的读写，常用例子，以及同义词等等，一句话，方便使用。
 2. [grammarcheck](https://www.nounplus.net/grammarcheck/) ：如果是百度翻译提供学习的平台，那么这个网站就是提供输出的平台，你将你写的英文文章写好后可以提交给该网站，这个网站会帮你修改语法错误。
 3. [wikihow](https://www.wikihow.com/) ：这其实是一个问答网站，不过很生动有条理，不仅可以长知识，还能提高英语阅读能力。
-4. [TED](ted.com) ：世界精英的演讲。
-5. [BBC](bbc.com) ：英国广播公司。
-6. [youtube](youtube.com) ：全球视频分享网站。
+4. [TED](https://ted.com) ：世界精英的演讲。
+5. [BBC](https://bbc.com) ：英国广播公司。
+6. [youtube](https://youtube.com) ：全球视频分享网站。
 7. [documentary storm]( https://documentarystorm.com/ ) ：提供免费的全世界纪录片，均来源于 YouTube。
 
 ## 视频
