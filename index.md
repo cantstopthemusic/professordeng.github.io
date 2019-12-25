@@ -1,5 +1,8 @@
+[真理](/truth) | [资源](/resources)
+
 ## 计算机科学
 
+- [算法](/algorithm-learning)
 - [人工智能](/ai)
 - [C 语言](/c-learning)
 - [C++ ](/cpp-learning)
@@ -39,7 +42,19 @@
 - [精神分析](/psychoanalysis)
 - [意志力](/self-control)
 
+## 随记
+
+{% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
+{% for group in posts_by_year %}
+
+<h3>{{ group.name }}</h3>
+<ul>
+    {% for post in group.items %}
+    <li><div style="width:60px;float:left;">{{ post.date | date: "%b %-d" }}</div> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
 ---
 
-<a href="http://www.beian.miit.gov.cn">粤ICP备18087972号</a>
-
+[粤ICP备18087972号](http://www.beian.miit.gov.cn)
