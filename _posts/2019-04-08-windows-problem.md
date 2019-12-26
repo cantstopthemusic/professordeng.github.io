@@ -49,3 +49,21 @@ title: Windows 下常见问题
 - 云存储
 
   电脑的数据应该时刻备份，最简单的方法就是云存储，利用 `onedirve` 服务将数据备份到云上，何时重装系统都不会有困难。
+  
+- DNS 服务器修改
+
+  1. 网络右击，打开 “网络和 Internet” 设置
+  2. 更改设配器选项
+  3. 右击以太网图标，点击属性
+  4. 选择 TCP/IPv4
+  5. 勾选 “使用下面的 DNS 服务器地址”。
+  6. Google DNS：`8.8.8.8` 、`8.8.4.4` 。
+  
+- Windows 查看和清除 NDS 缓存
+
+  1. 进入 CMD
+  2. 利用 ipconfig /displaydns 显示 dns 缓存
+  3. 利用 ipconfig /flushdns 清空 dns 缓存
+  4. 再利用 ipconfig /displaydns 显示 dns 缓存
+
+  
