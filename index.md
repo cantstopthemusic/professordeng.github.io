@@ -34,7 +34,7 @@
 
 - [English](/english)
 
-## Other
+## Personal
 
 - [Crazy Lab](/lab)
 - [Learning Theory](/learning-theory)
@@ -42,6 +42,7 @@
 - [Politics](/politics)
 - [Psychoanalysis](/psychoanalysis)
 - [Willpower](/self-control)
+- [Physical Health](/physical-health)
 
 ## Notes
 
