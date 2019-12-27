@@ -41,8 +41,8 @@
 - [Philosophy](/philosophy)
 - [Politics](/politics)
 - [Psychoanalysis](/psychoanalysis)
-- [Willpower](/self-control)
 - [Physical Health](/physical-health)
+- [Willpower](/self-control)
 
 ## Notes
 
