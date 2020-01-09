@@ -1,6 +1,0 @@
-## Interpersonal relationship
-
-
-
-## self control
-
