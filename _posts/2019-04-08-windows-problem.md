@@ -59,11 +59,13 @@ title: Windows 下常见问题
   5. 勾选 “使用下面的 DNS 服务器地址”。
   6. Google DNS：`8.8.8.8` 、`8.8.4.4` 。
   
-- Windows 查看和清除 NDS 缓存
+- Windows 定时关机
 
-  1. 进入 CMD
-  2. 利用 ipconfig /displaydns 显示 dns 缓存
-  3. 利用 ipconfig /flushdns 清空 dns 缓存
-  4. 再利用 ipconfig /displaydns 显示 dns 缓存
+  `Ctrl + R` 打开运行命令，输入
+
+  ```shell
+  shutdown -s -t 3600 # 一小时后关机
+  shutdown -a # 取消关机
+  ```
 
   
