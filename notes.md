@@ -31,6 +31,7 @@
 ## Language
 
 - [English](/english)
+- [Japanese](/japanese)
 
 ## Personal
 
