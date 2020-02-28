@@ -42,4 +42,5 @@
 - [Psychoanalysis](/psychoanalysis)
 - [Physical Health](/physical-health)
 - [Willpower](/self-control)
+- [Life](/life)
 
