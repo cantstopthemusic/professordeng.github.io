@@ -10,6 +10,7 @@
 - [Data structure](/data-structure)
 - [Embedded Design](/embedded-design)
 - [Linux](/linux-learning)
+- [Media](/media)
 - [OpenGL](/opengl-learning)
 - [Operating System](/operating-system)
 - [Python](/python-learning)
