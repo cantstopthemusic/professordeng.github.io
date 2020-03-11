@@ -18,6 +18,7 @@
 - [Principle of Computer Composition](/computer-system)
 - [XV6](/xv6-book)
 - [WEB](/web-program)
+- [GDB](/gdb)
 
 ## Mathematics
 
