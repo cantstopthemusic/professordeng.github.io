@@ -11,6 +11,7 @@
 - [Embedded Design](/embedded-design)
 - [Linux](/linux-learning)
 - [Media](/media)
+- [Objective-C](/oc-learning)
 - [OpenGL](/opengl-learning)
 - [Operating System](/operating-system)
 - [Python](/python-learning)
