@@ -1,4 +1,4 @@
-[Notes](/notes) | [Resources](/resources)
+[Notes](/notes) | [Resources](/resources) | [Contact](/contact)
 
 ---
 
