@@ -2,16 +2,43 @@
 title: contact
 ---
 
-交流请 [留言](https://github.com/professordeng/professordeng.github.io/issues/new)，以下是我常用的各平台的账号，感兴趣的可以关注我。
+有疑问请 [留言](https://github.com/professordeng/professordeng.github.io/issues/new)。
+
+喜欢我的文章的人，可以自愿打赏：[支付宝](/img/alipay.jpg) | [微信支付](/img/chatpay.jpg)
+
+以下是我常用的各平台的账号，感兴趣的可以关注我。
 
 1. 微信公众号：[professordeng](/img/gzh.jpg)
+
 2. github：[professordeng](https://github.com/professordeng)
+
 3. B 站：[professordeng](https://space.bilibili.com/491275843)
+
 4. 知乎：[professordeng](https://www.zhihu.com/people/professordeng)
+
 5. 微博：[professordeng](https://weibo.com/codeng)
+
 6. CSDN：[professordeng](https://blog.csdn.net/professordeng)
+
 7. 简书：[professordeng](https://www.jianshu.com/u/457d7b6a84ec)
+
 8. Segmentfault：[professordeng](https://segmentfault.com/u/professordeng)
+
 9. 掘金：[professordeng](https://juejin.im/user/5e7b10c0e51d4526ed66dcc7)
-10. 博客园：[professordeng](https://www.cnblogs.com/professordeng/)
+
+10. 博客园：[professordeng](https://www.cnblogs.com/professordeng)
+
+11. 开源中国：[professordeng](https://my.oschina.net/professordeng)
+
+12. 码云：[professordeng](https://gitee.com/professordeng)
+
+13. V2EX：[professordeng](https://www.v2ex.com/member/professordeng)
+
+14. Ruby China：[professordeng](https://ruby-china.org/professordeng)
+
+15. learnku：[professordeng](https://learnku.com/users/59794)
+
+16. 少数派：[professordeng](https://sspai.com/u/professordeng)
+
+    
 
