@@ -2,7 +2,7 @@
 title: contact
 ---
 
-有疑问请 [留言](https://github.com/professordeng/professordeng.github.io/issues/new)。
+我也只是一个在表象中探索摸索本质的人，如有疑问或想法请 [留言](https://github.com/professordeng/professordeng.github.io/issues/new)。
 
 喜欢我的文章的人，可以自愿打赏：[支付宝](/img/alipay.jpg) | [微信支付](/img/chatpay.jpg)
 
