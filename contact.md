@@ -22,21 +22,25 @@ title: contact
 
 8. Segmentfault：[professordeng](https://segmentfault.com/u/professordeng)
 
-9. 掘金：[professordeng](https://juejin.im/user/5e7b10c0e51d4526ed66dcc7)
+9. 牛客网：[professordeng](https://www.nowcoder.com/profile/818052875)
 
-10. 博客园：[professordeng](https://www.cnblogs.com/professordeng)
+10. 力扣：[professordeng](https://leetcode-cn.com/u/professordeng/)
 
-11. 开源中国：[professordeng](https://my.oschina.net/professordeng)
+11. 掘金：[professordeng](https://juejin.im/user/5e7b10c0e51d4526ed66dcc7)
 
-12. 码云：[professordeng](https://gitee.com/professordeng)
+12. 博客园：[professordeng](https://www.cnblogs.com/professordeng)
 
-13. V2EX：[professordeng](https://www.v2ex.com/member/professordeng)
+13. 开源中国：[professordeng](https://my.oschina.net/professordeng)
 
-14. Ruby China：[professordeng](https://ruby-china.org/professordeng)
+14. 码云：[professordeng](https://gitee.com/professordeng)
 
-15. learnku：[professordeng](https://learnku.com/users/59794)
+15. V2EX：[professordeng](https://www.v2ex.com/member/professordeng)
 
-16. 少数派：[professordeng](https://sspai.com/u/professordeng)
+16. Ruby China：[professordeng](https://ruby-china.org/professordeng)
+
+17. learnku：[professordeng](https://learnku.com/users/59794)
+
+18. 少数派：[professordeng](https://sspai.com/u/professordeng)
 
     
 
