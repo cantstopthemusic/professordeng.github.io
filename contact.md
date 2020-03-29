@@ -42,8 +42,4 @@ title: contact
 
 18. 少数派：[professordeng](https://sspai.com/u/professordeng)
 
-
----
-
-<audio autoplay="autoplay" loop="loop"> <source src="http://music.163.com/song/media/outer/url?id=864711417.mp3" type="audio/mpeg"> </audio>
-
+<audio controls autoplay loop> <source src="https://music.163.com/song/media/outer/url?id=187672.mp3"> </audio>
