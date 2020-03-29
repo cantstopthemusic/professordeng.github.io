@@ -2,28 +2,25 @@
 title: resources
 ---
 
-这里只介绍我在电脑上常用的 web 资源，主要是用得顺手。会时常更新。
+记录实用但在国内小众的 web 网站。
 
 ## 英语
 
-1. [百度翻译](https://fanyi.baidu.com) ：包括单词的读写，常用例子，以及同义词等等，一句话，方便使用。
 2. [grammarcheck](https://www.nounplus.net/grammarcheck/) ：如果是百度翻译提供学习的平台，那么这个网站就是提供输出的平台，你将你写的英文文章写好后可以提交给该网站，这个网站会帮你修改语法错误。
 3. [wikihow](https://www.wikihow.com/) ：这其实是一个问答网站，不过很生动有条理，不仅可以长知识，还能提高英语阅读能力。
 4. [TED](https://ted.com) ：世界精英的演讲。
 5. [BBC](https://bbc.com) ：英国广播公司。
-6. [youtube](https://youtube.com) ：全球视频分享网站。
-7. [documentary storm]( https://documentarystorm.com/ ) ：提供免费的全世界纪录片，均来源于 YouTube。
 
 ## 视频
 
 1. [YTS](https://yts.lt/) ：国外电影的优良种子网站，电影清晰度高，文件小，提供多种格式的种子，基本欧美电影都有。
 2. [新片场](https://www.xinpianchang.com/)：短视频网站，可以学习如何制作短视频、找素材
-3. [B 站](https://www.bilibili.com/)：学习网站
 
 ## 开发
 
-1. [github](https://github.com) ：这个网站被我当作了学习记录的网站，我的博客也是这个网站提供的服务搭建的。
 2. [tuna](https://tuna.moe/) ：这是清华大学的一个计算机协会，提供各种开源软件的镜像下载。
+3. [mdnice](https://www.mdnice.com/) ：可将 markdown 文档改造为微信公众号、知乎、掘金的格式，然后发布到各平台上。
+4. [md.qikqiak](https://md.qikqiak.com/) ：可将 markdown 文档改造为微信公众号格式，然后发布到公众号。
 
 ## 身体
 
@@ -38,5 +35,4 @@ title: resources
 
 ## 学习
 
-1. [知乎](https://www.zhihu.com/) ：有问题，上知乎，相同经历的答主为你解忧，但千万注意不要被一些段子给吸引了，浪费时间。
 2. [网易公开课](https://open.163.com/) ：上知天文，下至地理。
