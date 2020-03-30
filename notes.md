@@ -9,6 +9,7 @@
 - [Computer World](/computer)
 - [Data structure](/data-structure)
 - [Embedded Design](/embedded-design)
+- [HTML](/html-learning)
 - [Linux](/linux-learning)
 - [Media](/media)
 - [Objective-C](/oc-learning)
