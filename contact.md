@@ -41,5 +41,3 @@ title: contact
 17. learnku：[professordeng](https://learnku.com/users/59794)
 
 18. 少数派：[professordeng](https://sspai.com/u/professordeng)
-
-<audio controls autoplay loop> <source src="https://music.163.com/song/media/outer/url?id=187672.mp3"> </audio>
