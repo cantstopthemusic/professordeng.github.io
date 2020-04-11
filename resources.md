@@ -2,7 +2,7 @@
 title: resources
 ---
 
-记录实用但在国内小众的 web 网站。
+记录实用但在国内小众的 web 网站或软件。
 
 ## 英语
 
@@ -21,6 +21,7 @@ title: resources
 2. [tuna](https://tuna.moe/) ：这是清华大学的一个计算机协会，提供各种开源软件的镜像下载。
 3. [mdnice](https://www.mdnice.com/) ：可将 markdown 文档改造为微信公众号、知乎、掘金的格式，然后发布到各平台上。
 4. [md.qikqiak](https://md.qikqiak.com/) ：可将 markdown 文档改造为微信公众号格式，然后发布到公众号。
+5. [天若 OCR](https://tianruoocr.cn/) ：识别图片中的文字，写论文神器。
 
 ## 身体
 
