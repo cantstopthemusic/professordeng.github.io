@@ -25,3 +25,4 @@ title: contact
 17. Ruby China：[professordeng](https://ruby-china.org/professordeng)
 18. learnku：[professordeng](https://learnku.com/users/59794)
 19. 少数派：[professordeng](https://sspai.com/u/professordeng)
+20. 领英：[professordeng](https://www.linkedin.com/in/professordeng/)
