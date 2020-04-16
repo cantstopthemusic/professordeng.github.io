@@ -11,7 +11,7 @@ title: contact
 3. [B 站](https://space.bilibili.com/491275843) ：记录原创视频
 4. [知乎](https://www.zhihu.com/people/professordeng) ：充当人生导师
 5. [微博](https://weibo.com/codeng) ：生活时间线，记录历史时刻和日常感想
-6. [豆瓣](https://www.douban.com/people/professordeng/) ：看影评。
+6. [豆瓣](https://www.douban.com/people/professordeng/) ：看影评
 7. [CSDN](https://blog.csdn.net/professordeng) ：写技术文章
 8. [简书](https://www.jianshu.com/u/457d7b6a84ec) ：写技术文章
 9. [Segmentfault](https://segmentfault.com/u/professordeng) ：写技术文章
