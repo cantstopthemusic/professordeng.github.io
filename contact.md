@@ -2,6 +2,8 @@
 title: contact
 ---
 
+博客主题基于 [theme](https://github.com/professordeng/theme)。
+
 我也只是一个在表象中摸索本质的人，如有疑问或想法请 [留言](https://github.com/professordeng/professordeng.github.io/issues/new)。
 
 以下是不同平台下我的账号，感兴趣的可以关注我。
