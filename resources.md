@@ -33,6 +33,7 @@ title: resources
 1. [菜鸟教程](https://www.runoob.com/) ：入门级技术学习，涵盖前端、后端、移动端。
 2. [cppreference](https://cppreference.com) ：C 和 C++ 的语法、库以及各种关于 C 和 C++ 的知识。
 3. [linux 命令大全](https://man.linuxde.net/) ：各种 `linux` 系统命令的用法。 
+4. [deadlinkchecker](https://deadlinkchecker.com)
 
 ## 学习
 
