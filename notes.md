@@ -46,5 +46,5 @@
 5. [心理学](/psychoanalysis)
 6. [生理学](/physical-health)
 7. [意志力](/self-control)
-8. [生活杂谈](/life)
+8. [生活](/life)
 
