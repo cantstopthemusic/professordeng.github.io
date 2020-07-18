@@ -1,30 +1,30 @@
 ## iOS 开发
 
-1. [Objective-C 教程](/oc-learning)
-2. [基于 oc 的 iOS 开发教程](/ios)
+1. [objc 教程](/objc)
+2. [基于 objc 的 iOS 开发教程](/ios)
 3. [swift 教程](/swift)
 
 ## 计算机科学
 
-1. [算法](/algorithm-learning)
-2. [人工智能](/ai)
-3. [C](/c-learning)
-4. [C++ ](/cpp-learning)
+1. [算法](/algorithm)
+2. [人工智能](/artificial-intelligence)
+3. [C](/c)
+4. [C++ ](/cpp)
 5. [计算机安全](/computer-security)
 6. [计算机网络](/computer-network)
 7. [计算机入门](/computer)
 8. [数据结构](/data-structure)
 9. [嵌入式设计](/embedded-design)
-10. [HTML](/html-learning)
-11. [Linux](/linux-learning)
+10. [HTML](/html)
+11. [Linux](/linux)
 12. [多媒体](/media)
-14. [OpenGL](/opengl-learning)
+14. [OpenGL](/opengl)
 15. [操作系统](/operating-system)
-16. [Python](/python-learning)
+16. [Python](/python)
 17. [编程语言](/programming-language)
 18. [计算机组成原理](/computer-system)
-19. [xv6 操作系统](/xv6-book)
-20. [web 开发](/web-program)
+19. [xv6 操作系统](/xv6)
+20. [web 开发](/web)
 21. [GDB 调试工具](/gdb)
 
 ## 数学
