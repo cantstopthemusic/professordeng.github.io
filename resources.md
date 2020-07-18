@@ -2,6 +2,10 @@
 title: resources
 ---
 
+[首页](/) | [资源](/resources) | [关于](/about)
+
+---
+
 记录实用但在国内小众的 web 网站或软件。
 
 ## 英语
