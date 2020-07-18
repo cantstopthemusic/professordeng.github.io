@@ -1,3 +1,9 @@
+## iOS 开发
+
+1. [Objective-C 教程](/oc-learning)
+2. [基于 oc 的 iOS 开发教程](/ios)
+3. [swift 教程](/swift)
+
 ## 计算机科学
 
 1. [算法](/algorithm-learning)
@@ -12,7 +18,6 @@
 10. [HTML](/html-learning)
 11. [Linux](/linux-learning)
 12. [多媒体](/media)
-13. [Objective-C](/oc-learning)
 14. [OpenGL](/opengl-learning)
 15. [操作系统](/operating-system)
 16. [Python](/python-learning)
