@@ -13,6 +13,10 @@ title: 首页
 3. [swift 教程](/swift)
 4. [UIKit](/uikit)
 
+## 工具
+
+[软件](/software) | [windows 10](/windows10) | [macOS](/macOS)
+
 ## 计算机科学
 
 1. [算法](/algorithm)
@@ -48,8 +52,7 @@ title: 首页
 
 ## 语言
 
-1. [英语](/english)
-2. [日语](/japanese)
+[英语](/english) | [日语](/japanese)
 
 ## 修养
 
